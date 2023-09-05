@@ -28,7 +28,6 @@ h1,h2,h3,h4,h5,a{
 .headerlogo{
     width: 30%;
 }
-.headerlogo{}
 .headerlogo a{
     color: #fff;
     text-decoration: none;
@@ -66,14 +65,13 @@ h1,h2,h3,h4,h5,a{
 .secheadertxt{
     text-align: center;
     color: #fff;
-    width: 420px;
+    width: 100%;
     margin: 0px auto;
 }
 .secheadertxt h1{
     font-weight: 600;
     font-size: 36px;
 }
-.secheadertxt p{}
 .secheadertxt a{
     text-decoration: none;
     color: #fff;
@@ -106,18 +104,14 @@ h1,h2,h3,h4,h5,a{
     width: 24%;
     margin: 20px 0px;
 }
-.sitem1 p{
-    
-}
+
 /* about */
-.aboutarea{}
-.about{}
-.stxt{}
-.abouttotal{}
+
+
 .aboutimg{
     width: 50%;
 }
-.aboutimg img{}
+
 .abouttxt{
     width: 48%;
     color: #6b6868;
@@ -126,7 +120,7 @@ h1,h2,h3,h4,h5,a{
 .contactarea{
     background-color: #F6F6F6;
 }
-.abouttotal{}
+
 .citem{
     width: 33%;
 }
@@ -134,9 +128,7 @@ h1,h2,h3,h4,h5,a{
 .footertop{
     background-color: #22C3A3;
 }
-.footertopMenu{
-    
-}
+
 .footertopMenu ul{
     list-style: none;
     text-align: center;

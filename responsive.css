@@ -90,7 +90,7 @@
         font-size: 25px;
     }
     .secheadertxt p {
-        font-size: 10px;
+        font-size: 14px;
     }
 }
 @media all and (max-width: 690px){
@@ -102,7 +102,7 @@
 @media all and (max-width: 570px){
     .secheadertxt h1 {
         font-weight: 400;
-        font-size: 8px;
+        font-size: 15px;
     }
     .secheadertxt a {
         padding: 5px 4px;
@@ -122,10 +122,16 @@
     }
     .secheadertxt h1 {
         font-weight: 500;
-        font-size: 7px;
+        font-size: 13px;
+        width: 100% !important;
+    }
+    .secheadertxt p {
+        font-size: 11px;
+        width: 100% !important;
+        text-align: left;
     }
     .secheadertxt a {
-
+        /* font-size: 12px; */
         display: inline-block;
     }
     .sitem1 {
