@@ -4,7 +4,7 @@
     background-position: bottom center;
     background-size: cover;
     width: 100%;
-    height: 80vh;
+    padding: 190px 0px;
 }
 .citem {
     width: 33% !important;
@@ -128,7 +128,7 @@
     .secheadertxt p {
         font-size: 11px;
         width: 100% !important;
-        text-align: left;
+        
     }
     .secheadertxt a {
         /* font-size: 12px; */
